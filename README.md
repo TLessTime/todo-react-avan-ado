@@ -46,3 +46,15 @@ npm run dev
 
 
 Abra `http://localhost:5173` (ou a porta que o Vite informar).
+
+## 🧠 Notas de implementação
+- `TodoContext` fornece estado global da lista e ações.
+- `useLocalStorage` é um hook customizado para leitura/escrita em localStorage.
+- `useInput` encapsula lógica de input controlado.
+- `useMemo` e `React.memo` foram aplicados para reduzir renderizações.
+
+
+## Próximos passos (sugestões)
+- Adicionar edição inline da tarefa
+- Ordenação e prioridades
+- Testes unitários
