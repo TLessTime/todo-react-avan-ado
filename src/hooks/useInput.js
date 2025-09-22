@@ -1,4 +1,4 @@
-```js
+js
 import { useCallback, useState } from 'react'
 
 
@@ -8,4 +8,4 @@ const onChange = useCallback(e => setValue(e.target.value), [])
 const reset = useCallback(() => setValue(''), [])
 return { value, setValue, onChange, reset }
 }
-```
+
