@@ -1,4 +1,4 @@
-```jsx
+jsx
 import React from 'react'
 import TodoForm from './components/TodoForm'
 import TodoFilters from './components/TodoFilters'
@@ -27,4 +27,4 @@ return (
 </div>
 )
 }
-```
+
