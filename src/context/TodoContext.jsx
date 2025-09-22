@@ -1,4 +1,4 @@
-```jsx
+jsx
 import React, { createContext, useContext, useMemo } from 'react'
 import useLocalStorage from '../hooks/useLocalStorage'
 
@@ -52,4 +52,4 @@ counts
 
 return <TodoContext.Provider value={value}>{children}</TodoContext.Provider>
 }
-```
+
