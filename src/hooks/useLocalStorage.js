@@ -1,4 +1,4 @@
-```js
+js
 import { useState, useEffect } from 'react'
 
 
@@ -25,4 +25,4 @@ console.error('useLocalStorage: failed to set', e)
 
 return [state, setState]
 }
-```
+
