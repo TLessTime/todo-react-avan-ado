@@ -1,4 +1,4 @@
-```jsx
+jsx
 import React from 'react'
 import { useTodos } from '../context/TodoContext'
 import useInput from '../hooks/useInput'
@@ -29,4 +29,4 @@ onChange={onChange}
 </form>
 )
 }
-```
+
