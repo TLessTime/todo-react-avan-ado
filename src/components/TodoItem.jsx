@@ -1,4 +1,4 @@
-```jsx
+jsx
 import React, { memo, useCallback } from 'react'
 import { useTodos } from '../context/TodoContext'
 
@@ -28,4 +28,4 @@ return (
 // memo to avoid re-renders quando props não mudam
 const TodoItem = memo(TodoItemComponent)
 export default TodoItem
-```
+
