@@ -1,4 +1,4 @@
-```css
+css
 :root{
 --bg:#f7fafc;
 --card:#ffffff;
@@ -38,4 +38,4 @@ header h1{margin:0}
 .todo-item .remove{background:transparent;border:none;font-size:1.2rem;color:#ef4444;cursor:pointer}
 .empty{color:var(--muted)}
 footer{margin-top:14px;text-align:center;color:var(--muted)}
-```
+
