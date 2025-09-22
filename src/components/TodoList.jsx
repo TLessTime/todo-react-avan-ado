@@ -1,4 +1,4 @@
-```jsx
+jsx
 import React, { useMemo } from 'react'
 import { useTodos } from '../context/TodoContext'
 import TodoItem from './TodoItem'
@@ -28,4 +28,4 @@ return (
 </ul>
 )
 }
-```
+
